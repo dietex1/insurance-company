@@ -1,5 +1,10 @@
 The main goal of the project was to create a backend with CRUD operations and a small frontend to show the operation  of the insurance application.
 
+Technologies in Backend : Rest API, spring boot, orm (hibernate).
+Technologies in Frontend : reactJS.
+DataBase : PostgreSQL
+
+
 Client business operation:
 
 The application is used to maintain insurance information. The agency may create
