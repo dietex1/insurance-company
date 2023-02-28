@@ -1,0 +1,8 @@
+.my-table th, .my-table td {
+    outline: 1px solid #000;
+    padding: 10px
+}
+
+ul {
+    list-style: none;
+}
