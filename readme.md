@@ -1,4 +1,4 @@
-The main goal of the project was to create a backend and a small frontend to show the operation  of the insurance application.
+The main goal of the project was to create a backend with CRUD operations and a small frontend to show the operation  of the insurance application.
 
 Client business operation:
 
