@@ -1,4 +1,6 @@
-The main goal of the project was to create a backend with CRUD operations and a small frontend to show the operation  of the insurance application.
+The main goal of the project was to create 
+a backend with CRUD operations and 
+a simple frontend to show the operation  of the insurance application.
 
 Technologies in Backend : Rest API, spring boot, orm (hibernate).
 Technologies in Frontend : reactJS.
