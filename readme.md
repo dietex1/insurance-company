@@ -20,6 +20,9 @@ Complex query :
 List all agencies that have inactive (expired) insurance.
 
 
+![Konceptualni schema](/diagram.png)
+
+
 CZ:
 Klientská business operace :
 
